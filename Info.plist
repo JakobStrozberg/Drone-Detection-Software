@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleGetInfoString</key>
+  <string>Anaconda Navigator</string>
+  <key>CFBundleExecutable</key>
+  <string>run.py</string>
+  <key>CFBundleIdentifier</key>
+  <string>com.anaconda.io</string>
+  <key>CFBundleName</key>
+  <string>Anaconda Navigator</string>
+  <key>CFBundleIconFile</key>
+  <string>main.icns</string>
+  <key>CFBundleShortVersionString</key>
+  <string>$PKG_VERSION</string>
+  <key>CFBundleInfoDictionaryVersion</key>
+  <string>6.0</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>IFMajorVersion</key>
+  <integer>0</integer>
+  <key>IFMinorVersion</key>
+  <integer>1</integer>
+  <key>NSSupportsAutomaticGraphicsSwitching</key>
+  <true/>
+  <key>NSCameraUsageDescription</key>
+  <string>We need access to your camera to enable video conferencing.</string>
+</dict>
+</plist>
